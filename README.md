@@ -4,8 +4,6 @@
 cobogós on a serpentine screen, panels on a dome — each copy tangent to the
 surface and all of them sharing a single prototype mesh.
 
-![Coloured perforated blocks instanced on an S-shaped wall](docs/surface-instancer.png)
-
 A plugin for [IngeTrazo](https://github.com/ingelibre/ingetrazo).
 
 <img width="640" height="509" alt="Instancer" src="https://github.com/user-attachments/assets/800b51ae-4d62-4b00-a52a-197db5cf1748" />
